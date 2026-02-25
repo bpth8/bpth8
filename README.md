@@ -22,5 +22,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bagotest)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itmy3denis@gmail.com)
 
-**Telegram:** [@bagotest](https://t.me/bagotest)
-**Email:** [itmy3denis@gmail.com](mailto:itmy3denis@gmail.com)
+- **Telegram:** [@bagotest](https://t.me/bagotest)
+- **Email:** [itmy3denis@gmail.com](mailto:itmy3denis@gmail.com)
